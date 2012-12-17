@@ -1,0 +1,11 @@
+python-box2d (2.1.2+svn20121214.358-1) testing; urgency=low
+
+  * Box2D 2.1.2
+
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Fri, 14 Dec 2012 17:27:35 -0300
+
+python-box2d (2.0.2+svn20100109.244-1) unstable; urgency=low
+
+  * Initial release. Closes: 524710.
+
+ -- Luke Faraone <luke@faraone.cc>  Sun, 04 Jul 2010 15:01:24 -0700
