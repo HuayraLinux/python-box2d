@@ -1,3 +1,9 @@
+python-box2d (2.1.2+svn20121214.359-1) testing; urgency=low
+
+  * Box2D 2.1.2 new version.
+
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Tue, 16 Apr 2013 12:44:28 -0300
+
 python-box2d (2.1.2+svn20121214.358-1) testing; urgency=low
 
   * Box2D 2.1.2
