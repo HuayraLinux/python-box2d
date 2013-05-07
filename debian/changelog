@@ -1,3 +1,9 @@
+python-box2d (2.1.2+svn20121214.359-2) testing; urgency=low
+
+  * Fix encoding.
+
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Mon, 06 May 2013 16:46:58 -0300
+
 python-box2d (2.1.2+svn20121214.359-1) testing; urgency=low
 
   * Box2D 2.1.2 new version.
