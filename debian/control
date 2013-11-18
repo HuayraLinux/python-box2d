@@ -14,7 +14,7 @@ Homepage: http://code.google.com/p/pybox2d/
 
 Package: python-box2d
 Architecture: any
-Depends: ${python:Depends}, ${misc:Depends}, ${shlibs:Depends}
+Depends: ${python:Depends}, ${misc:Depends}, ${shlibs:Depends}, config-package-dev, cdbs, python-setuptools
 Provides: ${python:Provides}
 Description: Python Bindings for the 2D Physics Engine Box2D
  2D rigid body simulation library for games. Programmers can use it in their 
